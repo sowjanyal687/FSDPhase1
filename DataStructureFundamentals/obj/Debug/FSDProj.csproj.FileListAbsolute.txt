@@ -1,0 +1,6 @@
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\bin\Debug\DataStructureFundamentals.exe.config
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\bin\Debug\DataStructureFundamentals.exe
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\bin\Debug\DataStructureFundamentals.pdb
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\obj\Debug\FSDProj.csproj.CoreCompileInputs.cache
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\obj\Debug\DataStructureFundamentals.exe
+C:\Users\Sowjanya_L\source\repos\FSDSession8\DataStructureFundamentals\obj\Debug\DataStructureFundamentals.pdb
